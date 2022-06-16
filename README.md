@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ansdyi
 - 👀 I’m interested in JavaScript, HTML, R
-- 📫 How to reach me ansisadamayanti1012@gmail.com
+- 📫 How to reach me anisadamayanti1012@gmail.com
