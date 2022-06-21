@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Software Engineering's Teacher
-- 👀 I’m interested in JavaScript, HTML, R
+- 👀 Interested in JavaScript, HTML, R
 - 📫 How to reach me anisadamayanti1012@gmail.com
